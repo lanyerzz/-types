@@ -1,0 +1,22 @@
+{
+  "name": "lanyer-types",
+  "version": "1.0.0",
+  "description": "types of typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanyerzz/-types.git"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "lanyerzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanyerzz/-types/issues"
+  },
+  "homepage": "https://github.com/lanyerzz/-types#readme"
+}

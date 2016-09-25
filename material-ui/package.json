@@ -1,0 +1,19 @@
+{
+  "name": "material-ui",
+  "version": "0.15.4",
+  "description": "types of material-ui",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanyerzz/types-material-ui.git"
+  },
+  "author": "lanyerzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanyerzz/types-material-ui/issues"
+  },
+  "homepage": "https://github.com/lanyerzz/types-material-ui#readme"
+}
